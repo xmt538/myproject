@@ -1,1 +1,1 @@
-# myproject
+# pkg upgrade -y && pkg upgrade 
